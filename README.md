@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @syedm83
-- 👀 I’m interested in cloud computing and software development 
-- 🌱 I’m currently learning web design and database management!!!!
-- 😄 Pronouns: she/her
-- ![dea8f93fb360e56d2a55f6612a8943f3_w200](https://github.com/user-attachments/assets/2861ea8f-01b0-4a25-886f-854517a96735)
+<div align="center">
+
+<p> Hi there 👋, I’m Manahil (she/her)  </p>
+
+<img src="https://github.com/user-attachments/assets/2861ea8f-01b0-4a25-886f-854517a96735" alt="Waving Hand" width="90" height="90">
+
+<p> I’m a student! I/m currently interested in cloud computing and software development. </p>
+<p> I’m currently learning web design and database management!!!! </p>
+<p> Feel free to take a look around my page to see my projects! </p>
+<p> 🌠Thank you for stopping by🌠 </p>
+</div>
+
+
 
 <!---
 syedm83/syedm83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
