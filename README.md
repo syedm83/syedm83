@@ -6,8 +6,7 @@
 
 <p> I’m a student! I'm currently interested in cloud computing and software development. </p>
 <p> I’m currently learning web design and database management!!!! </p>
-<p> Feel free to take a look around my page to see my projects! </p>
-<p> 🌠Thank you for stopping by🌠 </p>
+<p> 🌠Thank you for stopping by!🌠 </p>
 </div>
 
 
