@@ -1,7 +1,7 @@
 <div align="center">
 
 <p> Hi there 👋, I’m Manahil  </p>
-<p> Tech Stack: *C++*, PHP, Python, JavaScript</p>
+<p> Tech Stack: C++, PHP, Python, JavaScript</p>
 
 
 
