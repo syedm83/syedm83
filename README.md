@@ -1,10 +1,10 @@
 <div align="center">
 
 <p> Hi there 👋, I’m Manahil  </p>
+<p> Tech Stack: *C++*, PHP, Python, JavaScript</p>
 
 
-<p> I'm interested in C++ and database design and management. </p>
-<p> I’m currently learning cloud computing and advanced C++ concepts. </p>
+
 </div>
 
 
