@@ -2,7 +2,7 @@
 
 <p> Hi there 👋, I’m Manahil  </p>
 <p> I program mainly in C++ and Python, but you can find all of my old projects here.</p>
-Check out my [portfolio](https://syedm83.github.io/portfolio/) and get in touch!
+
 
 
 
