@@ -1,7 +1,7 @@
 <div align="center">
 
 <p> Hi there 👋, I’m Manahil  </p>
-<p> I program mainly in C++ and Python, but you can find all of my old projects here.</p>
+<p> I love building fun apps from scratch! </p>
 
 
 
